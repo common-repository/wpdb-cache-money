@@ -1,0 +1,91 @@
+div.wpdb-cache-money-profile, table.wpdb-cache-money-profile{
+	background-color: #fff;
+	border: 1px solid #c00;
+	border-collapse: collapse;
+	box-shadow: 0 .25em .75em #000;
+	-moz-box-shadow: 0 .25em .75em #000;
+	clear: both;
+	color: #333;
+	display: block;
+	font-family: 'Helvetica Neue', 'HelveticaNeue', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 1em;
+	margin: 1em;
+	padding: 1em;
+	text-align: left;
+}
+
+div.wpdb-cache-money-profile h2, table.wpdb-cache-money-profile td.h2{
+	border-bottom: 1px solid #c00;
+	color: #333;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 200;
+	line-height: .65em;
+	margin: 0 0 .5em 0;
+	padding: 4px 4px 0 0;
+}
+
+table.wpdb-cache-money-profile td.h2{
+	border-width: 0;
+	line-height: 1em;
+	margin: 0;
+	padding: 0 0 .5em 0;
+}
+
+table.wpdb-cache-money-profile td.head{
+	background-color: #666;
+	border: 1px solid #666; 
+	color: #fff;
+	margin: 5; 
+	padding: 5;
+	text-shadow: 1px 1px 1px #333;
+}
+
+table.wpdb-cache-money-profile td.body{
+	border: 1px solid #666; 
+	margin: 5; 
+	padding: 5;
+}
+
+div.wpdb-cache-money-profile h2 span{
+	color: #999;
+	display: inline;
+	font-size: 1em;
+}
+
+div.wpdb-cache-money-profile em{
+	color: #193; 
+	font-style: normal;
+	white-space: nowrap;
+}
+
+div.wpdb-cache-money-profile span{
+	color: #999;
+	display: block;
+	font-size: .8em;
+	font-weight: normal;
+	padding: .5em 0;
+}
+
+div.wpdb-cache-money-profile span span{
+	display: inline-block;
+	font-size: 1em;
+	min-width: 7em;
+	padding: 0;
+}
+
+div.wpdb-cache-money-profile span.code, table.wpdb-cache-money-profile td.code{
+	color: #333;
+	font-family: 'Panic Sans', monospace;
+	font-size: 1em;
+	margin: 0;
+	padding: .5em 0 0 0;
+}
+
+table.wpdb-cache-money-profile td.code{
+	padding: 0 0 .5em 0;
+}
